@@ -26,7 +26,7 @@ int main(void) {
     // Pruebas proximo_primo
     assert(proximo_primo(0) == 2);
     assert(proximo_primo(1) == 2);
-    assert(proximo_primo(2) == 3);
+    assert(proximo_primo(-2) == 3);
     assert(proximo_primo(14) == 17);
     assert(proximo_primo(17) == 19);
 
