@@ -6,3 +6,10 @@
  * Usuario Github
  */
 
+int contar_digitos(int numero);
+
+int sumar_digitos(int numero);
+
+int invertir_numero(int numero);
+
+int es_capicua(int numero);

@@ -14,7 +14,7 @@ int main(void) {
     printf("=== Ejercicio 5: Analisis y Transformacion de Digitos ===\n");
     printf("Numero: %d\n", num);
     printf("Cantidad de digitos: %d\n", contar_digitos(num));
-    printf("Suma de digitos: %d\n", sumar_digitos(num));
+   printf("Suma de digitos: %d\n", sumar_digitos(num));
     printf("Invertido: %d\n", invertir_numero(num));
     printf("Es capicua: %s\n", es_capicua(num) ? "SI" : "NO");
     return 0;
